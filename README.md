@@ -1,5 +1,7 @@
 # WeatherApp
 
+live url: https://weatherapp-6nhj.onrender.com/
+
 A simple weather application that fetches and displays current weather data.
 
 ## Features
